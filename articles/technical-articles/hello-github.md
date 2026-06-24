@@ -1,6 +1,6 @@
 # Hello GitHub
 
-This is my first markdown file inside my GitHub repository.
+This is my first markdown file created inside my GitHub repository.
 Today I learned:
 
 - How to create a repository
