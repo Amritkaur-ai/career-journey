@@ -77,3 +77,7 @@ console.log(fruits.inculdes("cherry")); // Output : false
 - Use 'push()' and 'pop()' to add/remove elements from the end
 - use 'unshift()' and 'shift()' to add/remove elements from the start
 - Use 'length' to get the number of elements.
+
+**Date:** 24 June 2026
+**Auther:** Amrit Kaur
+**Status:** Learning JavaScript Arrays
