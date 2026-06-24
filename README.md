@@ -1,11 +1,13 @@
-# My Learning Jouney
+# Hi, I'm Amrit kaur
 
-I am pursuing a PhD in Computer Science while learning :
+I'm a PhD student in Computer Science with an interest in AI in Software Engineering.
 
+## Currently Learning
+
+- JavaScript
 - Web Development
-- Technical Writing
 - Git & GitHub
-- AI Tools
+- Technical writing
 - Research Skills
 
-This repository documents my progress and the articles I write as I learn.
+Thank You for visiting my Profile!
