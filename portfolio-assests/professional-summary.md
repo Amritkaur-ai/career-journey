@@ -1,9 +1,13 @@
-# Hi, I'm Amrit Kaur
+# Professional Summary
 
-Here's my professional Summary
+I am a PhD scholar in Computer Science with an interest in AI in Software Engineering.
 
-- PhD scholar in Computer Science
-- Learning Web Development
-- Interested in AI in Software Engineering
-- Building technical writing and development Skills.
-- Passionate about research and creating beginner-friendly technical content.
+Currently, I'm building skills in:
+
+- Web Development
+- JavaScript
+- Git & GitHub
+- Technical Writing
+- Research Methodology
+
+My goal is to combine research, software development, and technical writing while building a strong professional portfolio.
