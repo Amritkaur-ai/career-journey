@@ -2,7 +2,7 @@
 
 ## What is AI in Software Engineering?
 
-The integration of Artificial Intelligence models, tools and procedures in Software development Lifecycle(SDLC), including requirement gathering, software design, coding, testing, deploymnet, and maintenanace is known as AI in Software Engineering. It shifts developers from being pure coders to orchestrators of AI-augmented workflows. Engineers need to focus more on architecture, prompt engineering and system reliability. It handles boilerplate generation and debugging, analyze programming language documentation to recognize patterns and syntax, predict what comes next, and suggest how to improve your code.
+The integration of Artificial Intelligence models, tools and procedures in Software development Lifecycle(SDLC), including requirement gathering, software design, coding, testing, deployment, and maintenance is known as AI in Software Engineering. It shifts developers from being pure coders to orchestrators of AI-augmented workflows. Engineers need to focus more on architecture, prompt engineering and system reliability. It handles boilerplate generation and debugging, analyze programming language documentation to recognize patterns and syntax, predict what comes next, and suggest how to improve your code.
 
 ## Tools
 
@@ -23,7 +23,7 @@ The integration of Artificial Intelligence models, tools and procedures in Softw
 ## Benefits of AI in Software Engineering
 
 - Enhanced productivity
-- Automayed repetitive tasks
+- Automated repetitive tasks
 - Improved code quality
 - Accelerate innovation
 - Lower development cost
